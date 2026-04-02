@@ -1,8 +1,0 @@
-{
-  "name": "Remix: WedCircle - Affordable Indian Wedding Planner",
-  "description": "A budget-friendly wedding planning platform tailored for the Indian market featuring vendor management, budget tracking, and planning tools.",
-  "requestFramePermissions": [
-    "camera",
-    "geolocation"
-  ]
-}
