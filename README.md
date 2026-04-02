@@ -2,7 +2,7 @@
 
 ##  Overview
 
-Vivaha is a web-based wedding planning platform that helps couples manage their wedding by connecting with vendors and organizing tasks like guest list, budget, and bookings.
+Vivaha is a wedding planning platform that helps couples manage their wedding by connecting with vendors and organizing tasks like guest list, budget, and bookings.
 
 ---
 
