@@ -11,6 +11,7 @@ Role-based Login (Admin / Vendor / Couple)
 Separate Dashboards
 Vendor Management
 Booking System
+Moodboards, checklist etc.
 Budget & Guest Management
 Notifications
 Tech Stack
@@ -21,6 +22,8 @@ CASE Tools: Draw.io (Diagrams)
 
 AI Tools:Google AI Studio (Prototype Design)
 
-
+Author 
+Priyanshi Mehta
+Diya Garg
 
 
