@@ -1,4 +1,5 @@
 Vivaha - Wedding Planning App
+
 Project Objective
 
 Vivaha aims to solve the problem of unorganized wedding planning by providing a single platform to manage vendors, budget, and tasks.
@@ -20,12 +21,6 @@ CASE Tools: Draw.io (Diagrams)
 
 AI Tools:Google AI Studio (Prototype Design)
 
-System Architecture
 
-Vivaha follows a 3-Tier Architecture:
-
-Presentation Layer (UI)
-Application Layer (Logic)
-Data Layer (LocalStorage)
 
 
