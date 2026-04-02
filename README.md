@@ -14,13 +14,14 @@ Booking System
 Moodboards, checklist etc.
 Budget & Guest Management
 Notifications
+
 **Tech Stack**
 
-Languages: HTML, CSS, JavaScript
+**Languages**: HTML, CSS, JavaScript
 
-CASE Tools: Draw.io (Diagrams)
+**CASE Tools**: Draw.io (Diagrams)
 
-AI Tools:Google AI Studio (Prototype Design)
+**AI Tools**:Google AI Studio (Prototype Design)
 
 **Author**
 Priyanshi Mehta
