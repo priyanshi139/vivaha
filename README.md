@@ -21,7 +21,7 @@ VIVAHA solves this by acting as a luxury digital wedding concierge a single plat
 * Notifications
 * Splash Screen UI
 
-✅ Features Implemented
+ Features Implemented
 Mapped to Functional Requirements (FRs):
 FR-01 · Authentication & Role Management
 
