@@ -1,6 +1,6 @@
 # Vivaha - Wedding Planning App
 
-📌 Project Objective
+ Project Objective
 Real-World Problem
 Planning a destination wedding in India is notoriously fragmented. Couples juggle dozens of vendors across spreadsheets, WhatsApp groups, and word-of-mouth referrals  with no central platform that speaks the language of luxury. The current landscape forces high-spending couples (₹10L–₹30L+ budgets) to:
 
