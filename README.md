@@ -59,6 +59,21 @@ This project follows **Design Thinking** approach:
 | Prototype | Google AI Studio mockups |
 | Test | Manual test cases |
 
+##  Testing
+
+📄 [View Test Cases Document](tests/Vivaha_Test_Cases.docx)
+
+| Module | Test Cases | Status |
+|--------|-----------|--------|
+| Login & Authentication | 6 |  5 Pass, 1 Fail |
+| Vendor Management | 6 |  5 Pass, 1 Fail |
+| Budget Tracker | 5 |  4 Pass, 1 Fail |
+| Guest Management | 4 |  Pass |
+| Checklist | 4 |  Pass |
+| Notifications | 2 |  Pass |
+| Moodboards | 2 | ⏳ 1 Pass, 1 Pending |
+| **Total** | **29** | **24 Pass, 3 Fail, 2 Pending** |
+
 ---
 ##  Project Structure
 ```
