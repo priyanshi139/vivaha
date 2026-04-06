@@ -61,7 +61,7 @@ This project follows **Design Thinking** approach:
 
 ##  Testing
 
-📄 [View Test Cases Document](tests/Vivaha_Test_Cases.docx)
+📄 [View Test Cases Document](tests/Vivaha_Test_Cases(1).docx)
 
 | Module | Test Cases | Status |
 |--------|-----------|--------|
