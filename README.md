@@ -1,36 +1,80 @@
-**Vivaha - Wedding Planning App**
+# 💍 Vivaha — Wedding Planning App
 
-**Project Objective**
+![React](https://img.shields.io/badge/React-19-blue?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-purple?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-5.0-teal?style=flat-square)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square)
 
-Vivaha aims to solve the problem of unorganized wedding planning by providing a single platform to manage vendors, budget, and tasks.
-Using Design Thinking, key pain points identified were lack of coordination, time consumption, and no centralized system.
-<img width="1440" height="1674" alt="image" src="https://github.com/user-attachments/assets/cc0e6acf-1658-44e4-95ae-3a3db5a918e9" />
+A centralized Indian wedding planning platform that eliminates coordination chaos — manage vendors, budget, guests, and tasks all in one place.
 
-**Live Demo**
+🚀 **[Live Demo](https://priyanshi139-software-engineering-7.vercel.app/)**
 
-Try the App Here:https://priyanshi139-software-engineering-7.vercel.app/
+---
 
-**Features Implemented**
-Role-based Login (Admin / Vendor / Couple)
-Separate Dashboards
-Vendor Management
-Booking System
-Moodboards, checklist etc.
-Budget & Guest Management
-Notifications
+## 🎯 Problem Statement
 
-**Tech Stack**
+Indian weddings involve 50+ vendors, months of planning, and coordination between families. Vivaha applies **Design Thinking** to solve three core pain points:
+- Lack of coordination between vendors and families
+- No centralized system for tasks, budgets, and guests
+- Time-consuming manual processes
 
-**Languages**: HTML, CSS, JavaScript
+## 🔍 Problem Discovery Canvas
 
-**CASE Tools**: Draw.io (Diagrams)
+![Problem Discovery Canvas](docs/problem-discovery-canvas.png)
 
-**AI Tools**:Google AI Studio (Prototype Design)
+---
 
-**Author**
+## ✨ Features
 
-Priyanshi Mehta
+| Feature | Description |
+|---------|-------------|
+| 👥 Role-based Login | Separate dashboards for Admin, Vendor & Couple |
+| 🏪 Vendor Management | Browse, book & track wedding vendors |
+| 💰 Budget Tracker | Real-time expense overview |
+| 👨‍👩‍👧‍👦 Guest Management | RSVP tracking & seating |
+| ✅ Checklist | Wedding day task tracker |
+| 🖼️ Moodboards | Visual inspiration boards |
+| 🔔 Notifications | Real-time booking alerts |
+| 📅 Booking System | Schedule & confirm services |
 
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** TypeScript, React 19, Vite
+- **Styling:** CSS3
+- **Deployment:** Vercel
+- **Design Tools:** Draw.io, Google AI Studio
+
+---
+
+## 📁 Project Structure
+vivaha/
+├── src/
+│   ├── App.tsx               # Main app & routing
+│   ├── BudgetOverview.tsx    # Budget component
+│   ├── types.ts              # TypeScript types
+│   ├── constants.ts          # App constants
+│   ├── server.ts             # Server setup
+│   ├── main.tsx              # Entry point
+│   ├── index.html            # HTML template
+│   └── index.css             # Global styles
+├── docs/
+│   ├── SRS.md                # Software Requirements
+│   ├── SDD.md                # Software Design Doc
+│   └── problem-discovery-canvas.png
+├── tests/
+│   └── test_cases.md         # Test cases
+├── presentations/
+│   └── Vivaha_Presentation_SE.pptx
+└── README.md
+
+---
+
+## 👩‍💻 Contributors
+
+- **Priyanshi Mehta** — [@priyanshi139](https://github.com/priyanshi139)
+- *Made for Software Engineering Project · Deployed on Vercel*
 
 
 
