@@ -20,7 +20,8 @@ Indian weddings involve 50+ vendors, months of planning, and coordination betwee
 
 ##  Problem Discovery Canvas
 
-![Problem Discovery Canvas](docs/problem-discovery-canvas.png)
+<img width="1440" height="1674" alt="image" src="https://github.com/user-attachments/assets/e4bdd15e-d35b-4090-ae90-22d33d0cab73" />
+
 
 ---
 
