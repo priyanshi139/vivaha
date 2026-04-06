@@ -7,39 +7,39 @@
 
 A centralized Indian wedding planning platform that eliminates coordination chaos — manage vendors, budget, guests, and tasks all in one place.
 
-🚀 **[Live Demo](https://priyanshi139-software-engineering-7.vercel.app/)**
+ **[Live Demo](https://priyanshi139-software-engineering-7.vercel.app/)**
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Indian weddings involve 50+ vendors, months of planning, and coordination between families. Vivaha applies **Design Thinking** to solve three core pain points:
 - Lack of coordination between vendors and families
 - No centralized system for tasks, budgets, and guests
 - Time-consuming manual processes
 
-## 🔍 Problem Discovery Canvas
+##  Problem Discovery Canvas
 
 ![Problem Discovery Canvas](docs/problem-discovery-canvas.png)
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
-| 👥 Role-based Login | Separate dashboards for Admin, Vendor & Couple |
-| 🏪 Vendor Management | Browse, book & track wedding vendors |
-| 💰 Budget Tracker | Real-time expense overview |
-| 👨‍👩‍👧‍👦 Guest Management | RSVP tracking & seating |
-| ✅ Checklist | Wedding day task tracker |
-| 🖼️ Moodboards | Visual inspiration boards |
-| 🔔 Notifications | Real-time booking alerts |
-| 📅 Booking System | Schedule & confirm services |
+|  Role-based Login | Separate dashboards for Admin, Vendor & Couple |
+|  Vendor Management | Browse, book & track wedding vendors |
+|  Budget Tracker | Real-time expense overview |
+|  Guest Management | RSVP tracking & seating |
+|  Checklist | Wedding day task tracker |
+|  Moodboards | Visual inspiration boards |
+|  Notifications | Real-time booking alerts |
+|  Booking System | Schedule & confirm services |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** TypeScript, React 19, Vite
 - **Styling:** CSS3
@@ -48,7 +48,7 @@ Indian weddings involve 50+ vendors, months of planning, and coordination betwee
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 vivaha/
 ├── src/
 │   ├── App.tsx               # Main app & routing
@@ -71,7 +71,7 @@ vivaha/
 
 ---
 
-## 👩‍💻 Contributors
+##  Contributors
 
 - **Priyanshi Mehta** — [@priyanshi139](https://github.com/priyanshi139)
 - *Made for Software Engineering Project · Deployed on Vercel*
