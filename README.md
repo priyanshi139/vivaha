@@ -71,7 +71,7 @@ This project follows **Design Thinking** approach:
 | Guest Management | 4 |  Pass |
 | Checklist | 4 |  Pass |
 | Notifications | 2 |  Pass |
-| Moodboards | 2 | ⏳ 1 Pass, 1 Pending |
+| Moodboards | 2 |  1 Pass, 1 Pending |
 | **Total** | **29** | **24 Pass, 3 Fail, 2 Pending** |
 
 ---
