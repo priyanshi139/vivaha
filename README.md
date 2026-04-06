@@ -47,9 +47,21 @@ Indian weddings involve 50+ vendors, months of planning, and coordination betwee
 - **Deployment:** Vercel
 - **Design Tools:** Draw.io, Google AI Studio
 
----
+- ##  Methodology
 
+This project follows **Design Thinking** approach:
+
+| Phase | Activity |
+|-------|----------|
+| Empathize | User interviews with 5 Indian families |
+| Define | Problem Discovery Canvas |
+| Ideate | Feature brainstorming |
+| Prototype | Google AI Studio mockups |
+| Test | Manual test cases |
+
+---
 ##  Project Structure
+```
 vivaha/
 ├── src/
 │   ├── App.tsx               # Main app & routing
@@ -69,8 +81,8 @@ vivaha/
 ├── presentations/
 │   └── Vivaha_Presentation_SE.pptx
 └── README.md
+```
 
----
 
 ##  Contributors
 
