@@ -81,6 +81,11 @@ The system includes:
 * Use Case Diagram
 
 ---
+# Software Requirements Specification
+
+Full document available: [Vivaha_SRS.docx](../tests/../Vivaha_SRS.docx)
+
+See detailed SRS document for complete requirements.
 
 
 
