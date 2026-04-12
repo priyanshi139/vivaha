@@ -7,7 +7,7 @@
 
 A centralized Indian wedding planning platform that eliminates coordination chaos — manage vendors, budget, guests, and tasks all in one place.
 
- **[Live Demo](https://priyanshi139-software-engineering-7.vercel.app/)**
+ **[Live Demo](https://priyanshi139-vivaha.vercel.app)**
 
 ---
 
