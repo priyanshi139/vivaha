@@ -60,8 +60,7 @@ This project follows **Design Thinking** approach:
 | Test | Manual test cases |
 
 ##  Testing
-<img width="1442" height="786" alt="image" src="https://github.com/user-attachments/assets/753cd430-c973-44e6-8a84-71cbd6d8deeb" />
-
+<img width="1223" height="617" alt="image" src="https://github.com/user-attachments/assets/5e33ab25-176b-4634-8aa7-8ee0705be189" />
 
 | Module | Test Cases | Status |
 |--------|-----------|--------|
