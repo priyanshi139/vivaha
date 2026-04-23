@@ -97,7 +97,8 @@ vivaha/
 └── README.md
 ```
 ## VIVAHA POSTER
-<img width="1448" height="1086" alt="VIVAHA POSTER" src="https://github.com/user-attachments/assets/3727ab2c-d8c0-4621-93bc-5eef76bf62b4" />
+<img width="1448" height="1086" alt="Untitled design" src="https://github.com/user-attachments/assets/85a5d588-99fb-4e94-8dd9-8d7b7d4c8f5f" />
+
 
 
 
