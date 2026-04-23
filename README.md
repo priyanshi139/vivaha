@@ -96,6 +96,9 @@ vivaha/
 │   └── Vivaha_Presentation_SE.pptx
 └── README.md
 ```
+## VIVAHA POSTER
+<img width="1448" height="1086" alt="VIVAHA POSTER" src="https://github.com/user-attachments/assets/3727ab2c-d8c0-4621-93bc-5eef76bf62b4" />
+
 
 
 ##  Contributors
