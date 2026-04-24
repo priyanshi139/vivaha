@@ -97,7 +97,8 @@ vivaha/
 └── README.md
 ```
 ## VIVAHA-YOUR AI WEDDING CONCIERGE POSTER
-<img width="2000" height="1414" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/d0e5fec6-23be-468b-868b-5e0ca8baf37f" />
+<img width="2000" height="1414" alt="VIVAHA_YOUR AI WEDDING CONCIERGE pdf" src="https://github.com/user-attachments/assets/89e9c793-b884-425e-b79f-7bff7bac508d" />
+
 
 
 
