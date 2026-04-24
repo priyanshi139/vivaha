@@ -96,8 +96,9 @@ vivaha/
 │   └── Vivaha_Presentation_SE.pptx
 └── README.md
 ```
-## VIVAHA POSTER
-<img width="1448" height="1086" alt="Untitled design" src="https://github.com/user-attachments/assets/85a5d588-99fb-4e94-8dd9-8d7b7d4c8f5f" />
+## VIVAHA-YOUR AI WEDDING CONCIERGE POSTER
+<img width="2000" height="1414" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/d0e5fec6-23be-468b-868b-5e0ca8baf37f" />
+
 
 
 
