@@ -5,7 +5,7 @@
 ![Vite](https://img.shields.io/badge/Vite-5.0-teal?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square)
 
-A centralized Indian wedding planning platform that eliminates coordination chaos — manage vendors, budget, guests, and tasks all in one place.
+A centralized Indian wedding planning platform that eliminates coordination chaos — manage vendors, budget, guests, and tasks all in one place. 
 
 ## 🚀 Live Demo  
 [![Live Demo](https://img.shields.io/badge/Visit-Project-brightgreen?style=for-the-badge&logo=vercel)](https://priyanshi139-software-engineering-7.vercel.app/)
